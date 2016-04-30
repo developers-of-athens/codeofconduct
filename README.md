@@ -48,9 +48,9 @@ We value your attendance and hope that by communicating these expectations widel
 
 ####Email Template for Anti-Harassment Reporting
 
-SUBJECT: Safe Space alert at [EVENT NAME]
+SUBJECT: Safe Space alert at Hack Athens National Day of Civic Hacking
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
+I am writing because of harassment at the National Day of Civic Hacking event in Athens, GA. 
 
 You can reach me at (CONTACT INFO). Thank you.
 
